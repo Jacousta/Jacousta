@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akhilsharma.pandit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nGPH72JdoLOUqqjb9WPhybrI184BATRT/view?usp=sharing](https://drive.google.com/file/d/1nGPH72JdoLOUqqjb9WPhybrI184BATRT/view?usp=sharing)
+- 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1nGPH72JdoLOUqqjb9WPhybrI184BATRT/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
