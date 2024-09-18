@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [MY-Portfolio](https://jacousta.github.io/Portfolio-main/)
 
-- 💬 Ask me about **MERN Stack, AWS**
+- 💬 Ask me about **MERN Stack, AWS Services, Data Science**
 
 - 📫 How to reach me **akhilsharma.pandit@gmail.com**
 
-- 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1gHmiIRjGakl2AyUMOKtkxdACAod678Em/view?usp=sharing)
+- 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1fG4J6rQ05QgdOHXQLtJOxPOwXXC8ANWz/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
