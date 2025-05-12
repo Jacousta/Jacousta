@@ -3,19 +3,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jacousta&label=Profile%20views&color=0e75b6&style=flat" alt="jacousta" /> </p>
 
-- 🌱 I’m currently learning **Helm Charts, Mlops**
+- 🌱 I’m currently learning **Helm Charts, MlOps**
 
 - 👯 I’m looking to collaborate on **AWS Cloud Services, Devops, Nifi Cluster**
 
 - 🤝 I’m looking for help with **Decentralised Blockchain App**
 
-- 👨‍💻 All of my projects are available at [MY-Portfolio](https://jacousta.github.io/Portfolio-main/)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://jacousta.github.io/Portfolio-main/)
 
 - 💬 Ask me about **MERN Stack, AWS Services, Data Science, DevSecOps, DSA**
 
 - 📫 How to reach me **akhilsharma.pandit@gmail.com**
 
-- 📄 Know about my experiences [MY-RESUME](https://drive.google.com/file/d/1zYCfRrMDbouad234CwG_LjnvpHilRbpR/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1zYCfRrMDbouad234CwG_LjnvpHilRbpR/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
