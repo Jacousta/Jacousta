@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Decentralised Blockchain App**
 
-- 👨‍💻 All of my projects are available at [My_Portfolio](https://jacousta.github.io/Portfolio-main/)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://jacousta.github.io/Portfolio/)
 
 - 💬 Ask me about **MERN Stack, AWS Services, Data Science, DevSecOps, DSA**
 
