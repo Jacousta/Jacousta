@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Sharma</h1>
-<h3 align="center">Finance-Savvy Coder, Fullstack Web Developer and Devops Engineer|Expertise in c++, Devops| Strong Problem solving and Communication Skills for optimal project delievery</h3>
+<h3 align="center">Finance-Savvy Coder, Fullstack Web Developer and Devops Engineer| Expertise in c++, Devops | Strong Problem solving and Communication Skills for optimal project delievery</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jacousta&label=Profile%20views&color=0e75b6&style=flat" alt="jacousta" /> </p>
 
